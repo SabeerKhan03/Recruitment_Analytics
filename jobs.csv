@@ -1,0 +1,11 @@
+job_id,job_title,department,posted_date,closing_date,target_headcount,job_status
+DA001,Junior Data Analyst,Analytics,2025-01-05,2025-03-31,4,Closed
+DA002,BI Analyst,Analytics,2025-02-01,2025-05-31,3,Closed
+DS001,Data Scientist,Data Science,2025-01-15,2025-06-30,2,Closed
+DE001,Data Engineer,Engineering,2025-03-01,2025-07-31,3,Closed
+SWE001,Software Engineer,Engineering,2025-01-10,2025-04-30,8,Closed
+QA001,QA Analyst,Quality,2025-04-01,2025-08-31,4,Closed
+HR001,HR Associate,Human Resources,2025-05-01,2025-09-30,2,Closed
+PM001,Product Analyst,Product,2025-06-01,2025-10-31,2,Closed
+CS001,Customer Success Associate,Customer Success,2025-07-01,2025-11-30,5,Closed
+OPS001,Operations Analyst,Operations,2025-08-01,2025-12-15,3,Closed
